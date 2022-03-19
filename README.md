@@ -1,2 +1,3 @@
-# Super Simple & Basic App just for the sake of Understanding React Redux Toolkit
+# Super Simple & Basic App
+##  just for the sake of getting started with React Redux Toolkit
 
